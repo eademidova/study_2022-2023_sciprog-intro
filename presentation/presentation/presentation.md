@@ -35,20 +35,24 @@ header-includes:
 :::::::::::::: {.columns align=center}
 ::: {.column width="70%"}
 
-  * Кулябов Дмитрий Сергеевич
-  * д.ф.-м.н., профессор
-  * профессор кафедры прикладной информатики и теории вероятностей
+  * Демидова Екатерина Алексеевна
+  * студентка группы НКНбд-01-21
   * Российский университет дружбы народов
-  * [kulyabov-ds@rudn.ru](mailto:kulyabov-ds@rudn.ru)
-  * <https://yamadharma.github.io/ru/>
+  * <https://github.com/eademidova>
 
 :::
 ::: {.column width="30%"}
 
-![](./image/kulyabov.jpg)
+![](./image/ava.jpg)
 
 :::
 ::::::::::::::
+
+# Введение
+
+## Цель работы
+
+Научиться решать системы линейных уравнениий с помощью системы для математических вычислений Oсtave.
 
 # Вводная часть
 
@@ -208,3 +212,6 @@ REVEALJS_THEME = beige
 
 :::
 
+## Список литературы
+
+1. https://computing.llnl.gov/sites/default/files/ODEPACK_pub1_u88007.pdf
